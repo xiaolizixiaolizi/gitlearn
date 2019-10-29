@@ -35,10 +35,16 @@ git add . 代码状态为A (暂存区) 一旦代码有改动就一定要执行�
 ## 切到master分支并且合并分支
 ### git checkout master
 
- ###　git merge dev  branch7
+# git merge dev 
+
+
+
 
 
  
+
+
+ `
 
 
 
