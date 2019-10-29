@@ -12,7 +12,15 @@ git config --global user.email 1756329434@qq.com
 ## 把本地开发代码存到.git文件夹中
 
 ### git add .
-git add . 代码状态为A 
+git add . 代码状态为A (暂存区)
 如果还在修改本代码 状态有A变为M
 ### git commit -m "放了git.md"
+
+这一步把代码就放在了本地git中
+
+工作区-->暂存区-->版本库（本地仓库）
+
+
+
+
 
