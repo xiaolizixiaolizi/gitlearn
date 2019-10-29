@@ -11,8 +11,8 @@ git config --global user.email 1756329434@qq.com
 
 ## 把本地开发代码存到.git本地仓库
 
-### git add .
-git add . 代码状态为A (暂存区)
+### git add . 
+git add . 代码状态为A (暂存区) 一旦代码有改动就一定要执行此命令。
 如果还在修改本代码 状态有A变为M
 ### git commit -m "放了git.md"
 
@@ -22,7 +22,10 @@ git add . 代码状态为A (暂存区)
 
 工作区-->暂存区-->版本库（本地仓库）
 ## git log --oneline
-查看本地提交信息
+查看本地提交的每一次信息。代码发生改动但是没有
+
+## 
+
 
 
 
