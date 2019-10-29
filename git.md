@@ -24,7 +24,15 @@ git add . 代码状态为A (暂存区) 一旦代码有改动就一定要执行�
 ## git log --oneline
 查看本地提交的每一次信息。代码发生改动但是没有
 
-## 
+## git branch
+查看所有本地分支
+
+## git branch dev
+新建分支dev dev为了好理解。任意取名字
+
+## git checkout dev 
+切到新建的dev分支上
+
 
 
 
