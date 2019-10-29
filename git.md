@@ -9,7 +9,7 @@ git config --global user.name "xiaoming"
 git config --global user.email 1756329434@qq.com
 
 
-## 把本地开发代码存到.git文件夹中
+## 把本地开发代码存到.git本地仓库
 
 ### git add .
 git add . 代码状态为A (暂存区)
@@ -17,6 +17,8 @@ git add . 代码状态为A (暂存区)
 ### git commit -m "放了git.md"
 
 这一步把代码就放在了本地git中
+### git --all -m "一次性操作"
+把所有修改的代码直接提交到本地仓库。
 
 工作区-->暂存区-->版本库（本地仓库）
 
